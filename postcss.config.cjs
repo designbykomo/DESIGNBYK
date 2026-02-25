@@ -4,5 +4,3 @@ tailwindcss: {},
 autoprefixer: {},
 },
 }
-
-
